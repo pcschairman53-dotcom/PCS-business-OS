@@ -1,0 +1,6 @@
+{
+  "name": "PCS Business OS Backend",
+  "description": "A production-ready FastAPI backend for PCS Business OS featuring MongoDB Atlas, Gemini API integration, JWT authentication, and Vector Search RAG support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
