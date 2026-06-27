@@ -1,6 +1,6 @@
 """
 PCS Business OS - FastAPI Main Application Entrypoint
-File: /main.py
+File: /app.py
 """
 
 import logging

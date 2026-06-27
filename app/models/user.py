@@ -28,7 +28,7 @@ class PyObjectId(str):
                     core_schema.no_info_plain_validator_function(lambda v: ObjectId(v)),
                 ])
             ]),
-            serialization=core_schema.plain_serializer_function_handler(
+            serialization=core_schema.plain_serializer_ser_schema(
                 lambda x: str(x)
             )
         )
